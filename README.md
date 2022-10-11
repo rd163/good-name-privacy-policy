@@ -1,4 +1,4 @@
-# good-name-privacy-policy
+## Privacy Policy
 
 **Privacy Policy**
 
