@@ -1,61 +1,130 @@
-## Privacy Policy
+## 青柠起名隐私政策
 
-**Privacy Policy**
+"青柠起名"尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务，"青柠起名"会按照本隐私权政策的规定使用和披露您的个人信息。但"青柠起名"将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，"青柠起名"不会将这些信息对外披露或向第三方提供。 您在同意"青柠起名"服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于"青柠起名"服务使用协议不可分割的一部分。
 
-Hui Luo built the 青柠起名 app as a Commercial app. This SERVICE is provided by Hui Luo and is intended for use as is.
+我们制定本政策的目的在于帮助您了解以下内容： 1."青柠起名"如何收集和使用您的个人数据 2."青柠起名"如何披露您的个人数据 3.如何访问或修改您的个人数据 4."青柠起名"如何保护您的个人数据 5."青柠起名"如何处理儿童的个人数据 6.第三方SDK使用方式 7.设备权限调用 8.本政策如何更新 9.如何联系我们
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+1. "青柠起名"如何收集和使用您的个人数据
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+个人数据是指单独使用或结合其他信息使用时能够确定个人身份的信息。此类数据会在您使用我们的产品，例如，当您创建"青柠起名"账户；或者我们通过记录您如何与我们的产品交互而获得，例如，通过Cookie等技术，或者从您设备上运行的软件接收使用数据。在法律允许的情况下，我们还收集您提供给我们的信息和您发给我们的消息内容。 您在使用"青柠起名"产品时，可能需要提供您的个人数据。在某些情况下，您可以选择不向"青柠起名"提供个人数据，但如果您选择不提供，"青柠起名"可能无法为您提供相关产品或服务，也无法回应或解决您所遇到的问题。
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at 青柠起名 unless otherwise defined in this Privacy Policy.
+我们可能将您的个人数据用于以下目的：
 
-**Information Collection and Use**
+A、为第三方授权登录之目的收集您提供的信息
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to no. The information that I request will be retained on your device and is not collected by me in any way.
+为向您提供账号注册、登录功能及服务，在您通过微信注册并登录本软件时，您需要提供账号注册信息，我们会收集从第三方账号共享的头像、昵称及其他在您第三方授权登录界面同一授予的信息。
 
-**Log Data**
+收集前述信息的目的在于（1）通过账号管理更好地为您提供服务，通过登录账号，您可以同步您收藏的网页、历史记录等相关信息；在您更换设备后，通过登录账户，可以查看您同步的相关信息，不会因为更换设备而导致数据丢失。（2）如您提供微信号进行登录，当您遇到注册账号丢失、账号数据出现错误等问题，我们可以通过账号信息为您解决问题。
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+如您不提供上述信息，不注册账号，也不会影响您使用本软件提供的浏览网页、搜索内容、阅读资讯服务，但可能会影响您使用本软件的如下附加功能：无法同步收藏网页、书签、历史记录到其他设备。
 
-**Cookies**
+B、设备信息
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+设备信息是指您使用本软件时使用的设备的信息。
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+为了使本软件与设备进行必要的适配及提供安全服务，您在使用本软件时，根据您在软件安装及使用中授予的具体权限，我方会收集您的设备品牌、设备型号、屏幕分辨率、MAC地址、唯一设备识别码（IMEI、IMSI、OAID）、系统版本、设备所在位置相关信息（IP地址、GPS位以及能够提供相关信息的WiFi接入点、蓝牙和基站相关传感器信息）设备环境信息。
 
-**Service Providers**
+收集这些信息是为了向您提供更契合您需求的页面展示和搜索结果，了解产品适配性、识别账号异常状态、向您报送错误、进行bug分析，保障您的账号安全。除本政策另有明确约定外，我方不会将您的设备信息提供给任何第三方。但我方无法保证其他第三方不会通过其他途径获知您设备信息、并将设备信息与其他信息相结合识别您个人身份的情况，由此造成您任何损失的，您应向第三方追偿。
 
-I may employ third-party companies and individuals due to the following reasons:
+如您不想前述信息被手机，您可以通过系统设置-权限管理关闭对软件的设备信息权限授权，但因上述设备信息是为提供服务所收集的基础信息，如您不想设备信息被我方收集，则可能导致我们无法向您提供正常的服务。
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+C、位置信息
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+位置信息是指您开启设备定位功能并使用本软件基于位置提供的相关服务时，收集的有关您位置的信息，主要包括：我方可能会使用GPS、WiFi或其他技术方式收集和处理有关您所在位置的信息，手机的位置信息不会涉及您的精准定位信息。我们实时处理之后，向您返回处理结果，不会存储您的位置信息。
 
-**Security**
+我方收集您位置信息的目的在于：根据您的位置信息提供所在地天气信息服务。为了该目的，我方仅会收集您的大概位置信息，位置信息为城市级。
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+在收集该信息前，我方会弹窗提示并征求您的意见，您可以选择同意或拒绝。如您不想位置信息被访问，您也可以通过系统设置-权限管理关闭对软件的位置权限授权，但可能会因此影响我方向您提供天气服务。
 
-**Links to Other Sites**
+D、日志信息
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+日志信息是指您使用本软件时，系统会通过日志方式收集您对本软件的使用情况并作为网络日志保存。本软件会收集的网络日志信息主要包括：您使用的本软件的版本号、网络状态、IP地址、您的搜索查询记录、浏览记录、点击记录、访问时间及访问的网页记录。前述信息基于本软件浏览记录、网址收藏的基础功能收集。
 
-**Children’s Privacy**
+收集前述信息的目的在于改进和优化产品功能、保障网络安全，同时也是遵守网络安全法的相关规定。如果您要清除相关数据，您可通过设置-清除数据来选择清除“缓存文件和输入记录”、“历史记录”、“Cookies”、“账号密码”等相关数据。
 
-I do not knowingly collect personally identifiable information from children. I encourage all children to never submit any personally identifiable information through the Application and/or Services. I encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to us through the Application and/or Services, please contact us. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+请您注意单独的设备信息、位置信息、日志信息无法识别特定自然人身份，为了在您使用设备上为您提供一致的服务，我们可能会将您各种设备商收集的相关信息进行关联。如果前述关联导致可以识别特定自然人身份的，则除非获得您的授权或同意或法律法规另有规定外，否则我们会将该类信息作匿名化、去标识化处理后进行使用。
 
-**Changes to This Privacy Policy**
+E、文本信息
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+当"青柠起名"处理您的个人数据时我们会遵从适用的法律的要求基于适当的合法性基础予以处理，包括：
 
-This policy is effective as of 2022-10-11
+· 基于您的同意处理您的个人数据；
 
-**Contact Us**
+· 当与您联系、进行营销或市场调查，为改善我们的产品和服务，执行与改善我们的防损和反欺诈计划等目的处理您的个人数据时我们将基于我们或第三方的合法利益。这些合法利益包括，使我们能够更有效的管理和运营我们的业务并提供我们的产品和服务；保护我们的业务、系统、产品、服务和客户的安全；内部管理，遵从内部的政策和流程；我们在本政策中描述的其他合法利益等；
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at laurensefly@gmail.com.
+· 我们还可能基于遵从和执行法律义务处理您的个人数据。
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy
-Generator](https://app-privacy-policy-generator.nisrulz.com/)
+2. "青柠起名"如何披露您的个人数据
+
+在适用的法律要求或响应法律程序的情况下，"青柠起名"也可能会向相关的执法机关或者其他政府机关披露您的个人数据。在某些管辖区，如果"青柠起名"牵涉到重组、合并或破产和清理诉讼，那么您的个人数据还可能会被披露给交易方。"青柠起名"还会在存在合理需求的情况下披露您的数据，例如出于执行合同以及我们认为为阻止身体损害或财产损失或调查可能的或实际的非法行为有必要披露且披露是适当的。
+
+3. 如何访问或修改您的个人数据
+
+您应确保提交的所有个人数据都准确无误。"青柠起名"会尽力维护个人数据的准确和完整，并及时更新这些数据。
+
+当适用的法律要求的情况下，您可能（1）有权访问我们持有的关于您的特定的个人数据；（2）要求我们更新或更正您的不准确的个人数据；（3）拒绝或限制我们使用您的个人数据；以及（4）要求我们删除您的个人数据。如果您想行使相关的权利，请反馈给我们。为保障安全，您可能需要提供书面请求。如果我们有合理依据认为这些请求存在欺骗性、无法实行或损害他人隐私权，我们则会拒绝处理请求。
+
+当适用的法律要求的情况下，当"青柠起名"基于您的同意处理您的个人数据时，您还有权随时撤销您的同意。但撤销同意不会影响撤销前我们基于您的同意处理您个人数据的合法性及效力，也不影响我们基于其他适当的正当性基础处理您的个人数据。
+
+如果您认为我们对您的个人信息的处理不符合适用的数据保护法律，您可以与法定的数据保护机构联系。
+
+4. "青柠起名"如何保护和留存您的个人数据
+
+"青柠起名"重视个人数据的安全。您的个人数据不被未经授权访问、披露、使用、修改、损坏或丢失。我们会尽力保护您的个人数据，但是请注意任何安全措施都无法做到无懈可击。
+
+我们将会在达成本政策所述目的所需的期限内保留您的个人数据，除非按照法律要求或许可需要延长保留期或受到法律的允许。只要您的账户是为您提供服务必须，我们都将保留您的注册信息。您也可以选择注销您的账号，在您注销账号后，我们会停止基于该账号提供产品和服务，并在无特殊法律要求的情况下，删除您相应的个人数据。
+
+5. "青柠起名"如何处理儿童的个人数据
+
+我们的产品、网站和服务主要面向成人。如果没有父母或监护人的同意，儿童不得创建自己的用户帐户。对于经父母同意而收集儿童个人数据的情况，我们只会在受到法律允许、父母或监护人明确同意或者保护儿童所必要的情况下使用或披露此数据。 如果"青柠起名"发现自己在未事先获得可证实的父母同意的情况下收集了儿童的个人数据，则会设法尽快删除相关数据。
+
+6.第三方SDK使用方式
+
+我们的应用中会嵌入授权合作伙伴的SDK，如您使用微信账号登录我们的产品时，微信 SDK需要收集您的微信账号、设备识别号、联网相关信息；除此之外我们还加入了友盟SDK主要用于统计本app的用户量。
+
+我们会对授权合作伙伴获取有关信息的应用程序接口（API）、软件工具开发包（SDK）进行严格的安全检测，并与授权合作伙伴约定严格的数据保护措施，令其按照我们的委托目的、服务说明、本隐私权政策以及其他任何相关的保密和安全措施来处理个人信息。 如果"青柠起名"发现自己在未事先获得可证实的父母同意的情况下收集了儿童的个人数据，则会设法尽快删除相关数据。
+
+以下是我方合作伙伴列表：
+
+SDK名称：友盟
+
+功能：数据统计、分享、一键登录
+
+第三方名称：友盟同欣（北京）科技有限公司
+
+收集个人信息：设备信息（IMEI/Mac/IDFA/OPENUDID/GUID、SIM 卡 IMSI 信息）
+
+隐私权政策链接:https://www.umeng.com/page/policy
+
+SDK名称：微信
+
+功能：微信登录、分享、微信支付
+
+第三方名称：深圳市腾讯计算机系统有限公司
+
+收集个人信息：微信头像、昵称、地区和性别信息
+
+隐私权政策链接:
+
+http://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=privacy
+
+SDK 名称：支付宝
+
+服务类型：支付宝支付
+
+收集个人信息类型：常用设备信息（如IMEI/IMSI、SIM卡序列号/MAC地址）、网络信息以及地理位置信息。
+
+隐私政策链接：https://opendocs.alipay.com/open/54/01g6qm
+
+7. 设备权限调用
+
+在提供服务过程中，为了保证您能正常使用产品功能，我们会向系统申请您的以下设备权限，您可以选择允许或禁止相关权限申请。您也可以随时在系统中取消授权，您取消授权会导致您无法使用相关业务功能，但不会导致您无法使用其他功能。
+
+8. 本政策如何更新
+
+"青柠起名"保留不时更新或修改本政策的权利。如果我们的隐私政策变更，我们会将最新版隐私政策发布在这里。如果我们对隐私政策做出了重大变更，我们还可能会通过不同渠道向您发送变更通知，例如，在我们的网站上发布通知或者向您发布单独的通知。
+
+9. 如何联系我们
+
+如果您对本隐私政策或您个人信息的相关事宜有任何问题、意见或建议，请通过添加我们的客服微信：qnqiming, 或者在线反馈等多种方式与我们联系
+
